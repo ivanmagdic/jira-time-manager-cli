@@ -2,8 +2,9 @@
 
 ## Installation
 
+Installation is done by using the `go install` command and rename installed binary (from `jira-time-manager-cli` to `jtm`) in $GOPATH/bin:
 ```shell
-
+go install github.com/ivanmagdic/jira-time-manager-cli
 ```
 
 ## Usage
